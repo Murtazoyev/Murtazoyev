@@ -20,10 +20,10 @@
 </div><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dilshod-murtazoyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshod-murtazoyev" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dilshod-murtazoyev](https://www.linkedin.com/in/dilshod-murtazoyev-77b669202/?originalSubdomain=uz)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshod-murtazoyev" height="30" width="40" /></a>
 <a href="https://fb.com/dilshod murtazoyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilshod murtazoyev" height="30" width="40" /></a>
 <a href="https://instagram.com/dilshod_murtazoyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilshod_murtazoyev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dilshod murtazoyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshod murtazoyev" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/dilshod murtazoyev](https://www.youtube.com/channel/UCVe1SG4FVrvWw_jcimj3iHw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshod murtazoyev" height="30" width="40" /></a>
 </p>
 
 <br>
