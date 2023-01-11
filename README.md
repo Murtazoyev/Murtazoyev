@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **ZAK Pharmacy**
 
-- 👨‍💻 All of my projects are available at [stradapizza.uz](stradapizza.uz)
+- 👨‍💻 The projects I have worked on are **batata, starada, Zak and more...**
 
 - 💬 Ask me about **Full-Stack Developer (Front => ReactJs) (Back =>Python | Django)**
 
