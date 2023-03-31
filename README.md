@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazoyev&label=Profile%20views&color=0e75b6&style=flat" alt="murtazoyev" /> </p>
 
-- 🔭 I’m currently working on **ZAK Pharmacy**
+- 🔭 I’m currently working on **Fast & Pro Organization**
 
 - 👨‍💻 The projects I have worked on are **batata, starada, Zak and more...**
 
