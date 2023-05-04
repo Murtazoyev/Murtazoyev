@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Fast & Pro Organization**
 
-- 👨‍💻 The projects I have worked on are **batata, starada, Zak and more...**
+- 👨‍💻 The projects I have worked on are **batata, starada, Zak, HandiWork and more...**
 
 - 💬 Ask me about **Full-Stack Developer (Front => ReactJs) (Back =>Python | Django)**
 
