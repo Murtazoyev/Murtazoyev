@@ -54,7 +54,7 @@
 
 
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=murtazoyev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Murtazoyev Dilshod" /></div>
-  https://github.com/Murtazoyev/Meta-Back-End-Developer/invitations
+
 
 
 
